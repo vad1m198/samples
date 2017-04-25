@@ -9,6 +9,15 @@ public class Report {
 	private Date endDate;
 	private String performer;
 	private String activity;
+	
+	public Report(int id, Date startDate, Date endDate, String performer, String activity) {
+		this.id = id;
+		this.startDate = startDate;
+		this.endDate = endDate;
+		this.performer = performer;
+		this.activity = activity;
+	}
+	
 	public int getId() {
 		return id;
 	}
