@@ -2,4 +2,4 @@
 
 task description can be found in test_javajsp.doc file
 
-To run app locally execute comman `mvn tomcat7:run` then navigate to localhost://8082
+To run app locally execute command `mvn tomcat7:run` then navigate to http://localhost:8082
