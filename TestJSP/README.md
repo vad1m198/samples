@@ -1,3 +1,5 @@
 ## This is a simple java + servlets+ jsp + h2nd + jdbc example
 
-Test tasks were get from http://scand.by/ru/company/tasks.html
+task description can be found in test_javajsp.doc file
+
+To run app locally execute comman `mvn tomcat7:run` then navigate to localhost://8082
